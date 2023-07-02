@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export",
+    "etl": "node support/etl.js"
+  },
+  "dependencies": {
+    "antd": "^5.6.3",
+    "cheerio": "^1.0.0-rc.12",
+    "https": "^1.0.0",
+    "jsdom": "^20.0.3",
+    "next": "latest",
+    "node-fetch": "^2.6.7",
+    "puppeteer": "^20.7.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-highlight-words": "^0.20.0"
+  }
+}
