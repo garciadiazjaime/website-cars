@@ -123,20 +123,12 @@ const mapperD = () => ({
   selector: ".vehicle_item",
   run: ($, item) => {
     const title = $(item).find(".vehicle_title").text().trim();
-    const price = $(item)
-      .find(".capital-one-prequalification-button")
-      .data("sales-price");
-    const year = $(item)
-      .find(".capital-one-prequalification-button")
-      .data("year");
+    const price = $(item).find("capital-one-entry-button").data("sales-price");
+    const year = $(item).find("capital-one-entry-button").data("year");
     const href = $(item).find(".vehicle_title a").attr("href");
-    const link = `https://www.hawkvw.com/${href}`;
-    const vin = $(item)
-      .find(".capital-one-prequalification-button")
-      .data("vin");
-    const mileage = $(item)
-      .find(".capital-one-prequalification-button")
-      .data("mileage");
+    const link = `https://www.hawkvw.com${href}`;
+    const vin = $(item).find("capital-one-entry-button").data("vin");
+    const mileage = $(item).find("capital-one-entry-button").data("mileage");
 
     return {
       title,
@@ -204,9 +196,8 @@ const transformJSON = (data) => {
   return cars;
 };
 
-const load = (cars) => {
+const load = (cars) =>
   fs.writeFileSync("./public/cars.json", JSON.stringify(cars));
-};
 
 const main = async () => {
   const sites = [
