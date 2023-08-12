@@ -274,6 +274,7 @@ const main = async () => {
       url: "https://www.vwoaklawn.com/inventory/used/volkswagen?instock=true&intransit=true&mileagemin=556&mileagemax=60000&sorttype=priceltoh",
       mapper: "C",
     },
+    // TODO: this source seems to give same vins as vwoaklawn
     {
       url: "https://vworland.com/inventory/used/volkswagen?instock=true&intransit=true&mileagemin=556&mileagemax=55753&sorttype=priceltoh",
       mapper: "C",
