@@ -10,10 +10,15 @@ const formatter = new Intl.NumberFormat("en-US", {
   currency: "USD",
 });
 
-export default function Home() {
-  const [cars, setCars] = useState([]);
-  const [loading, setLoading] = useState(true);
+export const getStaticProps = async () => {
+  const res = await fetch(
+    "https://volkswagen-chicago.mintitmedia.com/cars.json"
+  );
+  const cars = await res.json();
+  return { props: { cars } };
+};
 
+export default function Home({ cars }) {
   const [searchText, setSearchText] = useState("");
   const [searchedColumn, setSearchedColumn] = useState("");
   const searchInput = useRef(null);
@@ -27,14 +32,6 @@ export default function Home() {
   const handleReset = (clearFilters) => {
     clearFilters();
     setSearchText("");
-  };
-
-  const fetchCars = async () => {
-    const response = await fetch("/cars.json");
-    const data = await response.json();
-
-    setCars(data);
-    setLoading(false);
   };
 
   const getColumnSearchProps = (dataIndex) => ({
@@ -162,7 +159,6 @@ export default function Home() {
   };
 
   useEffect(() => {
-    fetchCars();
     initGA();
   }, []);
 
@@ -181,7 +177,6 @@ export default function Home() {
           dataSource={cars}
           size="large"
           pagination={{ pageSize: 100 }}
-          loading={loading}
         />
       </main>
 
