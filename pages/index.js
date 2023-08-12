@@ -3,7 +3,11 @@ import { useEffect, useState, useRef } from "react";
 import { SearchOutlined } from "@ant-design/icons";
 import { Table, Input, Space, Button } from "antd";
 import Highlighter from "react-highlight-words";
-import ReactGA from "react-ga4";
+import TagManager from "react-gtm-module";
+
+const tagManagerArgs = {
+  gtmId: "GTM-527VHWHN",
+};
 
 const formatter = new Intl.NumberFormat("en-US", {
   style: "currency",
@@ -156,7 +160,7 @@ export default function Home() {
   ];
 
   const initGA = () => {
-    ReactGA.initialize("G-3T8X6BP5FF");
+    TagManager.initialize(tagManagerArgs);
   };
 
   useEffect(() => {
@@ -174,6 +178,7 @@ export default function Home() {
       <main>
         <h1>Cars</h1>
         <Table
+          rowKey="vin"
           columns={columns}
           dataSource={cars}
           size="large"
