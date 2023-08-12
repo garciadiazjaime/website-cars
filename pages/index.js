@@ -5,10 +5,6 @@ import { Table, Input, Space, Button } from "antd";
 import Highlighter from "react-highlight-words";
 import TagManager from "react-gtm-module";
 
-const tagManagerArgs = {
-  gtmId: "GTM-527VHWHN",
-};
-
 const formatter = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "USD",
@@ -160,7 +156,9 @@ export default function Home() {
   ];
 
   const initGA = () => {
-    TagManager.initialize(tagManagerArgs);
+    TagManager.initialize({
+      gtmId: "GTM-527VHWHN",
+    });
   };
 
   useEffect(() => {
