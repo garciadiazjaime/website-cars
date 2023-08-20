@@ -1,10 +1,15 @@
 import Head from "next/head";
 import { useEffect } from "react";
 import TagManager from "react-gtm-module";
+import cars from "../public/cars.json";
 
 const formatter = new Intl.NumberFormat("en-US", {
   style: "currency",
   currency: "USD",
+});
+
+const formatterNumber = new Intl.NumberFormat("en-Us", {
+  maximumSignificantDigits: 3,
 });
 
 const content = {
@@ -23,15 +28,7 @@ const styles = {
   },
 };
 
-export const getStaticProps = async () => {
-  const res = await fetch(
-    "https://volkswagen-chicago.mintitmedia.com/cars.json"
-  );
-  const cars = await res.json();
-  return { props: { cars } };
-};
-
-export default function Home({ cars }) {
+export default function Home() {
   const initGA = () => {
     TagManager.initialize({
       gtmId: "GTM-527VHWHN",
@@ -57,7 +54,7 @@ export default function Home({ cars }) {
         }}
       >
         <div style={styles.container}>
-          <h1>Volkswagen Chicago</h1>
+          <h1>Volkswagen Jetta Chicago</h1>
           <h2 style={{ fontWeight: "normal", opacity: 0.9 }}>
             Driving Value: Your Jetta Journey Starts Here!
           </h2>
@@ -66,6 +63,14 @@ export default function Home({ cars }) {
 
       <main style={styles.container}>
         <div style={{ marginTop: 40 }}>
+          <div style={{ display: "flex", padding: 20, fontWeight: "bold" }}>
+            <div style={{ width: 40 }}>#</div>
+            <div style={{ flex: 1 }}>Car</div>
+            <div style={{ flex: 1 }}>Price</div>
+            <div style={{ flex: 1 }}>Year</div>
+            <div style={{ flex: 1 }}>Mileage</div>
+            <div style={{ flex: 1 }}>VIN</div>
+          </div>
           {cars
             .slice(0, 50)
             .sort((a, b) => a.price - b.price)
@@ -76,10 +81,9 @@ export default function Home({ cars }) {
                   display: "flex",
                   borderBottom: "1px solid black",
                   padding: 20,
-                  display: "flex",
                 }}
               >
-                <div style={{ flex: 1 }}>{index + 1}</div>
+                <div style={{ width: 40 }}>{index + 1}</div>
                 <div style={{ flex: 1 }}>
                   <a href={car.link} target="_blank" rel="nofollow">
                     {car.title}
@@ -87,7 +91,9 @@ export default function Home({ cars }) {
                 </div>
                 <div style={{ flex: 1 }}>{formatter.format(car.price)}</div>
                 <div style={{ flex: 1 }}>{car.year}</div>
-                <div style={{ flex: 1 }}>{car.mileage}</div>
+                <div style={{ flex: 1 }}>
+                  {formatterNumber.format(car.mileage)}
+                </div>
                 <div style={{ flex: 1 }}>{car.vin}</div>
               </div>
             ))}

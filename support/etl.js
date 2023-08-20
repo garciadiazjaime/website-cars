@@ -53,7 +53,7 @@ const getExtractor = (site) => {
 const toNumber = (value) => Number(value.replace(/[^0-9.]+/g, ""));
 
 const mapperA = () => ({
-  selector: ".vehicle-content",
+  selector: ".standard-inventory",
   run: ($, item) => {
     const title = $(item).find("h2").text().trim();
     const price = toNumber($(item).find(".payment-section").text().trim());
