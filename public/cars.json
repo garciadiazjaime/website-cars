@@ -1,15 +1,23 @@
 [
     {
         "title": "2019 Kia Rio S",
-        "price": 15000,
+        "price": 14500,
         "year": "2019",
         "link": "https://www.dtvwchicago.com/viewdetails/used/3kpa24ab9ke160281/2019-kia-rio-4dr-car?type=cash",
         "vin": "3KPA24AB9KE160281",
         "mileage": 42607
     },
     {
+        "title": "2015 Toyota Yaris L",
+        "price": 15501,
+        "year": "2015",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/vnkktud30fa023588/2015-toyota-yaris-hatchback?type=cash",
+        "vin": "VNKKTUD30FA023588",
+        "mileage": 44548
+    },
+    {
         "title": "2017 Volkswagen Jetta 1.4T SE",
-        "price": 17000,
+        "price": 16500,
         "year": "2017",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwdb7aj3hm382008/2017-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWDB7AJ3HM382008",
@@ -17,7 +25,7 @@
     },
     {
         "title": "2022 Nissan Versa SV",
-        "price": 18000,
+        "price": 17500,
         "year": "2022",
         "link": "https://www.dtvwchicago.com/viewdetails/used/3n1cn8ev1nl847088/2022-nissan-versa-4dr-car?type=cash",
         "vin": "3N1CN8EV1NL847088",
@@ -25,7 +33,7 @@
     },
     {
         "title": "2019 Kia Forte LXS",
-        "price": 18500,
+        "price": 18000,
         "year": "2019",
         "link": "https://www.dtvwchicago.com/viewdetails/used/3kpf24ad1ke064118/2019-kia-forte-4dr-car?type=cash",
         "vin": "3KPF24AD1KE064118",
@@ -37,11 +45,11 @@
         "year": "2016",
         "link": "https://www.dtvwchicago.com/viewdetails/used/3vw217au8gm042937/2016-volkswagen-golf-hatchback?type=cash",
         "vin": "3VW217AU8GM042937",
-        "mileage": 12560
+        "mileage": 17541
     },
     {
         "title": "2018 Volkswagen Jetta 1.4T SE",
-        "price": 20000,
+        "price": 19000,
         "year": "2018",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwdb7aj3jm260190/2018-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWDB7AJ3JM260190",
@@ -49,7 +57,7 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 21500,
+        "price": 19500,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwcb7bu3lm028907/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWCB7BU3LM028907",
@@ -57,7 +65,7 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 22000,
+        "price": 20000,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwcb7bu8lm020611/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWCB7BU8LM020611",
@@ -65,23 +73,31 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE w/ Cold Weather Pkg",
-        "price": 22000,
+        "price": 21000,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwcb7bu8lm029051/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWCB7BU8LM029051",
         "mileage": 24826
     },
     {
-        "title": "2018 BMW X1 xDrive28i",
-        "price": 22000,
-        "year": "2018",
-        "link": "https://www.dtvwchicago.com/viewdetails/used/wbxht3c34j5k27118/2018-bmw-x1-sport-utility?type=cash",
-        "vin": "WBXHT3C34J5K27118",
-        "mileage": 46108
+        "title": "2016 Toyota Camry SE w/ Moonroof",
+        "price": 21001,
+        "year": "2016",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/4t1bf1fk6gu205486/2016-toyota-camry-4dr-car?type=cash",
+        "vin": "4T1BF1FK6GU205486",
+        "mileage": 48596
+    },
+    {
+        "title": "2021 Kia Sportage LX",
+        "price": 22001,
+        "year": "2021",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/kndpmcac7m7861489/2021-kia-sportage-sport-utility?type=cash",
+        "vin": "KNDPMCAC7M7861489",
+        "mileage": 13380
     },
     {
         "title": "2020 Toyota C-HR LE",
-        "price": 23000,
+        "price": 22500,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/used/nmtkhmbx6lr115480/2020-toyota-c-hr-sport-utility?type=cash",
         "vin": "NMTKHMBX6LR115480",
@@ -89,51 +105,59 @@
     },
     {
         "title": "2022 Volkswagen Taos S",
-        "price": 23000,
+        "price": 22500,
         "year": "2022",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vvcx7b27nm030523/2022-volkswagen-taos-sport-utility?type=cash",
         "vin": "3VVCX7B27NM030523",
         "mileage": 8657
     },
     {
-        "title": "2020 Honda Civic Sedan LX",
-        "price": 23500,
-        "year": "2020",
-        "link": "https://www.dtvwchicago.com/viewdetails/used/19xfc2f64le211982/2020-honda-civic-sedan-4dr-car?type=cash",
-        "vin": "19XFC2F64LE211982",
-        "mileage": 16957
-    },
-    {
         "title": "2020 Volkswagen Jetta R-Line",
-        "price": 23500,
+        "price": 23000,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwcb7bu2lm023844/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWCB7BU2LM023844",
         "mileage": 14471
     },
     {
+        "title": "2020 Honda Civic Sedan LX",
+        "price": 23000,
+        "year": "2020",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/19xfc2f64le211982/2020-honda-civic-sedan-4dr-car?type=cash",
+        "vin": "19XFC2F64LE211982",
+        "mileage": 16957
+    },
+    {
+        "title": "2021 Volkswagen Passat 2.0T R-Line",
+        "price": 23500,
+        "year": "2021",
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/1vwma7a31mc009047/2021-volkswagen-passat-4dr-car?type=cash",
+        "vin": "1VWMA7A31MC009047",
+        "mileage": 39850
+    },
+    {
+        "title": "2022 Volkswagen Taos S",
+        "price": 23500,
+        "year": "2022",
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vvmx7b22nm032880/2022-volkswagen-taos-sport-utility?type=cash",
+        "vin": "3VVMX7B22NM032880",
+        "mileage": 28653
+    },
+    {
         "title": "2020 Volkswagen Jetta SEL",
-        "price": 24000,
+        "price": 23500,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vweb7bu5lm044468/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWEB7BU5LM044468",
         "mileage": 21649
     },
     {
-        "title": "2020 Volkswagen Passat 2.0T SEL",
-        "price": 24000,
-        "year": "2020",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/1vwca7a31lc016770/2020-volkswagen-passat-4dr-car?type=cash",
-        "vin": "1VWCA7A31LC016770",
-        "mileage": 20763
-    },
-    {
-        "title": "2021 Volkswagen Passat 2.0T R-Line",
+        "title": "2021 Volkswagen Jetta SEL",
         "price": 24000,
         "year": "2021",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/1vwma7a31mc009047/2021-volkswagen-passat-4dr-car?type=cash",
-        "vin": "1VWMA7A31MC009047",
-        "mileage": 39850
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwe57bu1mm017213/2021-volkswagen-jetta-4dr-car?type=cash",
+        "vin": "3VWE57BU1MM017213",
+        "mileage": 21074
     },
     {
         "title": "2021 Volkswagen Passat 2.0T R-Line",
@@ -144,100 +168,76 @@
         "mileage": 42359
     },
     {
-        "title": "2022 Volkswagen Taos S",
-        "price": 24000,
-        "year": "2022",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vvmx7b22nm032880/2022-volkswagen-taos-sport-utility?type=cash",
-        "vin": "3VVMX7B22NM032880",
-        "mileage": 28625
-    },
-    {
-        "title": "2020 Volkswagen Tiguan 2.0T SE w/ Panoramic Sunroof",
-        "price": 24500,
-        "year": "2020",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vv3b7axxlm082947/2020-volkswagen-tiguan-sport-utility?type=cash",
-        "vin": "3VV3B7AXXLM082947",
-        "mileage": 31952
-    },
-    {
-        "title": "2021 Volkswagen Jetta SEL",
-        "price": 24500,
-        "year": "2021",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwe57bu1mm017213/2021-volkswagen-jetta-4dr-car?type=cash",
-        "vin": "3VWE57BU1MM017213",
-        "mileage": 21074
-    },
-    {
         "title": "2020 Volkswagen Passat 2.0T R-Line",
-        "price": 25000,
+        "price": 24500,
         "year": "2020",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/1vwma7a3xlc008493/2020-volkswagen-passat-4dr-car?type=cash",
         "vin": "1VWMA7A3XLC008493",
         "mileage": 24478
     },
     {
-        "title": "2021 Volkswagen Passat 2.0T R-Line",
-        "price": 25500,
+        "title": "2020 Volkswagen Tiguan S",
+        "price": 24501,
+        "year": "2020",
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vv1b7ax5lm019486/2020-volkswagen-tiguan-sport-utility?type=cash",
+        "vin": "3VV1B7AX5LM019486",
+        "mileage": 31221
+    },
+    {
+        "title": "2021 Volkswagen Jetta R-Line w/ Cold Weather Pkg",
+        "price": 25001,
         "year": "2021",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/1vwma7a33mc008563/2021-volkswagen-passat-4dr-car?type=cash",
-        "vin": "1VWMA7A33MC008563",
-        "mileage": 16653
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwc57bu1mm051661/2021-volkswagen-jetta-4dr-car?type=cash",
+        "vin": "3VWC57BU1MM051661",
+        "mileage": 19808
     },
     {
         "title": "2022 Volkswagen Taos SE",
-        "price": 26000,
+        "price": 25500,
         "year": "2022",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vvlx7b27nm019764/2022-volkswagen-taos-sport-utility?type=cash",
         "vin": "3VVLX7B27NM019764",
         "mileage": 23157
     },
     {
-        "title": "2020 Volkswagen Tiguan 2.0T SEL 4Motion",
-        "price": 27500,
-        "year": "2020",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vv2b7ax3lm017062/2020-volkswagen-tiguan-sport-utility?type=cash",
-        "vin": "3VV2B7AX3LM017062",
-        "mileage": 28336
-    },
-    {
-        "title": "2022 Toyota Prius L Eco",
-        "price": 27500,
-        "year": "2022",
-        "link": "https://www.dtvwchicago.com/viewdetails/used/jtdkamfu2n3185472/2022-toyota-prius-hatchback?type=cash",
-        "vin": "JTDKAMFU2N3185472",
-        "mileage": 17180
-    },
-    {
-        "title": "2022 Mitsubishi Outlander SE",
-        "price": 28000,
-        "year": "2022",
-        "link": "https://www.dtvwchicago.com/viewdetails/used/ja4j3ua84nz026587/2022-mitsubishi-outlander-sport-utility?type=cash",
-        "vin": "JA4J3UA84NZ026587",
-        "mileage": 8336
-    },
-    {
         "title": "2018 Volkswagen Tiguan SEL Premium 4Motion",
-        "price": 28000,
+        "price": 26000,
         "year": "2018",
         "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vv4b7ax3jm174046/2018-volkswagen-tiguan-sport-utility?type=cash",
         "vin": "3VV4B7AX3JM174046",
         "mileage": 36534
     },
     {
-        "title": "2020 Volkswagen Atlas Cross Sport 2.0T S 4Motion",
-        "price": 28000,
-        "year": "2020",
-        "link": "https://www.dtvwchicago.com/viewdetails/cpo/1v2gc2ca4lc217106/2020-volkswagen-atlas-cross-sport-sport-utility?type=cash",
-        "vin": "1V2GC2CA4LC217106",
-        "mileage": 25850
+        "title": "2022 Volkswagen Taos S",
+        "price": 26001,
+        "year": "2022",
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vvdx7b27nm024693/2022-volkswagen-taos-sport-utility?type=cash",
+        "vin": "3VVDX7B27NM024693",
+        "mileage": 15486
     },
     {
-        "title": "2017 Mercedes-Benz GLC GLC 300 4MATICÂ®",
-        "price": 28500,
-        "year": "2017",
-        "link": "https://www.dtvwchicago.com/viewdetails/used/wdc0g4kb9hf144859/2017-mercedes-benz-glc-sport-utility?type=cash",
-        "vin": "WDC0G4KB9HF144859",
-        "mileage": 14171
+        "title": "2018 Volkswagen Tiguan 2.0T SE 4Motion",
+        "price": 26001,
+        "year": "2018",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/3vv2b7ax9jm211737/2018-volkswagen-tiguan-sport-utility?type=cash",
+        "vin": "3VV2B7AX9JM211737",
+        "mileage": 39053
+    },
+    {
+        "title": "2020 Volkswagen Jetta SEL Premium",
+        "price": 26001,
+        "year": "2020",
+        "link": "https://www.dtvwchicago.com/viewdetails/cpo/3vwgb7buxlm031059/2020-volkswagen-jetta-4dr-car?type=cash",
+        "vin": "3VWGB7BUXLM031059",
+        "mileage": 27972
+    },
+    {
+        "title": "2022 Toyota Prius L Eco",
+        "price": 27000,
+        "year": "2022",
+        "link": "https://www.dtvwchicago.com/viewdetails/used/jtdkamfu2n3185472/2022-toyota-prius-hatchback?type=cash",
+        "vin": "JTDKAMFU2N3185472",
+        "mileage": 17180
     },
     {
         "title": "2018 Volkswagen Golf SportWagen S",
@@ -249,19 +249,35 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 21000,
+        "price": 20790,
         "year": 2020,
         "link": "https://www.cityvwchicago.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwcb7bu5lm017634/",
         "vin": "3VWCB7BU5LM017634",
         "mileage": 31928
     },
     {
-        "title": "2020 Volkswagen Tiguan 2.0T SE",
-        "price": 24190,
+        "title": "2020 Volkswagen Jetta R-Line",
+        "price": 21500,
         "year": 2020,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2020-volkswagen-tiguan-2-0t-se-fwd-4d-sport-utility-3vv3b7ax4lm064959/",
-        "vin": "3VV3B7AX4LM064959",
-        "mileage": 30815
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2020-volkswagen-jetta-r-line-fwd-4d-sedan-3vwcb7bu9lm026238/",
+        "vin": "3VWCB7BU9LM026238",
+        "mileage": 37687
+    },
+    {
+        "title": "2018 Volkswagen Tiguan 2.0T SE",
+        "price": 22990,
+        "year": 2018,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2018-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax2jm023920/",
+        "vin": "3VV2B7AX2JM023920",
+        "mileage": 56325
+    },
+    {
+        "title": "2021 Volkswagen Jetta 1.4T SE",
+        "price": 23500,
+        "year": 2021,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2021-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwc57bu3mm095113/",
+        "vin": "3VWC57BU3MM095113",
+        "mileage": 13544
     },
     {
         "title": "2021 Volkswagen Passat 2.0T R-Line",
@@ -270,14 +286,6 @@
         "link": "https://www.cityvwchicago.com/inventory/certified-used-2021-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwma7a30mc018760/",
         "vin": "1VWMA7A30MC018760",
         "mileage": 21975
-    },
-    {
-        "title": "2020 Volkswagen Tiguan 2.0T SE",
-        "price": 24490,
-        "year": 2020,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2020-volkswagen-tiguan-2-0t-se-fwd-4d-sport-utility-3vv3b7ax8lm144085/",
-        "vin": "3VV3B7AX8LM144085",
-        "mileage": 21301
     },
     {
         "title": "2021 Volkswagen Tiguan 2.0T SE",
@@ -296,14 +304,6 @@
         "mileage": 37402
     },
     {
-        "title": "2022 Volkswagen Passat 2.0T SE",
-        "price": 25990,
-        "year": 2022,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-passat-2-0t-se-fwd-4d-sedan-1vwsa7a34nc005213/",
-        "vin": "1VWSA7A34NC005213",
-        "mileage": 4812
-    },
-    {
         "title": "2021 Volkswagen Tiguan 2.0T SE",
         "price": 26488,
         "year": 2021,
@@ -312,28 +312,36 @@
         "mileage": 16041
     },
     {
-        "title": "2022 Volkswagen Taos 1.5T SE",
-        "price": 27000,
+        "title": "2018 Volkswagen Tiguan 2.0T SEL",
+        "price": 26500,
+        "year": 2018,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2018-volkswagen-tiguan-2-0t-sel-awd-4d-sport-utility-3vv2b7ax4jm013020/",
+        "vin": "3VV2B7AX4JM013020",
+        "mileage": 34439
+    },
+    {
+        "title": "2022 Volkswagen Taos 1.5T SEL",
+        "price": 30390,
         "year": 2022,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-taos-1-5t-se-awd-4d-sport-utility-3vvyx7b27nm046713/",
-        "vin": "3VVYX7B27NM046713",
-        "mileage": 32066
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-taos-1-5t-sel-awd-4d-sport-utility-3vvjx7b25nm045674/",
+        "vin": "3VVJX7B25NM045674",
+        "mileage": 739
     },
     {
-        "title": "2021 Volkswagen Tiguan 2.0T SE R-Line Black",
-        "price": 28990,
-        "year": 2021,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2021-volkswagen-tiguan-2-0t-se-r-line-black-fwd-4d-sport-utility-3vv3b7ax7mm119356/",
-        "vin": "3VV3B7AX7MM119356",
-        "mileage": 9654
+        "title": "2022 Volkswagen Tiguan 2.0T SE R-Line Black",
+        "price": 33490,
+        "year": 2022,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-tiguan-2-0t-se-r-line-black-awd-4d-sport-utility-3vv8b7ax8nm110656/",
+        "vin": "3VV8B7AX8NM110656",
+        "mileage": 15234
     },
     {
-        "title": "2023 Volkswagen Atlas 2.0T SE w/Technology",
-        "price": 38000,
-        "year": 2023,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2023-volkswagen-atlas-2-0t-se-wtechnology-awd-4d-sport-utility-1v2hp2ca3pc501261/",
-        "vin": "1V2HP2CA3PC501261",
-        "mileage": 5592
+        "title": "2022 Volkswagen Atlas 2.0T SE w/Technology",
+        "price": 36990,
+        "year": 2022,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-atlas-2-0t-se-wtechnology-awd-4d-sport-utility-1v2hp2ca2nc563165/",
+        "vin": "1V2HP2CA2NC563165",
+        "mileage": 12577
     },
     {
         "title": "2021 Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium",
@@ -344,32 +352,24 @@
         "mileage": 29892
     },
     {
-        "title": "2022 Volkswagen Atlas 2.0T SE w/Technology",
-        "price": 39000,
-        "year": 2022,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-atlas-2-0t-se-wtechnology-awd-4d-sport-utility-1v2hp2ca2nc563165/",
-        "vin": "1V2HP2CA2NC563165",
-        "mileage": 12577
-    },
-    {
         "title": "2021 Volkswagen ID.4 1st Edition",
-        "price": 39990,
+        "price": 39490,
         "year": 2021,
         "link": "https://www.cityvwchicago.com/inventory/certified-used-2021-volkswagen-id-4-1st-edition-rwd-4d-sport-utility-wvgdmpe20mp018726/",
         "vin": "WVGDMPE20MP018726",
         "mileage": 23275
     },
     {
-        "title": "2022 Volkswagen Atlas 3.6L V6 SE w/Technology",
-        "price": 40990,
-        "year": 2022,
-        "link": "https://www.cityvwchicago.com/inventory/certified-used-2022-volkswagen-atlas-3-6l-v6-se-wtechnology-awd-4d-sport-utility-1v2hr2ca0nc565622/",
-        "vin": "1V2HR2CA0NC565622",
-        "mileage": 5084
+        "title": "2023 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
+        "price": 42990,
+        "year": 2023,
+        "link": "https://www.cityvwchicago.com/inventory/certified-used-2023-volkswagen-atlas-cross-sport-3-6l-v6-se-wtechnology-awd-4d-sport-utility-1v2he2ca6pc219623/",
+        "vin": "1V2HE2CA6PC219623",
+        "mileage": 9262
     },
     {
         "title": "2019 Volkswagen Jetta 1.4T S",
-        "price": 17779,
+        "price": 17665,
         "year": "2019",
         "link": "https://www.vwofchicagoland.com/inventory/certified-used-2019-volkswagen-jetta-1-4t-s-fwd-4d-sedan-3vwcb7buxkm142854/",
         "vin": "3VWCB7BUXKM142854",
@@ -424,14 +424,6 @@
         "mileage": 40023
     },
     {
-        "title": "2022 Volkswagen Jetta 1.5T SE",
-        "price": 23779,
-        "year": "2022",
-        "link": "https://www.vwofchicagoland.com/inventory/used-2022-volkswagen-jetta-1-5t-se-fwd-4d-sedan-3vw7m7bu5nm008687/",
-        "vin": "3VW7M7BU5NM008687",
-        "mileage": 8192
-    },
-    {
         "title": "2020 Volkswagen Passat 2.0T R-Line",
         "price": 23929,
         "year": "2020",
@@ -441,7 +433,7 @@
     },
     {
         "title": "2022 Volkswagen Jetta 1.5T SE",
-        "price": 24000,
+        "price": 23999,
         "year": "2022",
         "link": "https://www.vwofchicagoland.com/inventory/certified-used-2022-volkswagen-jetta-1-5t-se-fwd-4d-sedan-3vwem7bu0nm013450/",
         "vin": "3VWEM7BU0NM013450",
@@ -480,6 +472,22 @@
         "mileage": 50594
     },
     {
+        "title": "2020 Volkswagen Tiguan ",
+        "price": 24995,
+        "year": "2020",
+        "link": "https://www.vwofchicagoland.com/inventory/used-2020-volkswagen-tiguan-awd-4d-sport-utility-3vv2b7ax4lm020228/",
+        "vin": "3VV2B7AX4LM020228",
+        "mileage": 19454
+    },
+    {
+        "title": "2019 Volkswagen Jetta ",
+        "price": 24999,
+        "year": "2019",
+        "link": "https://www.vwofchicagoland.com/inventory/used-2019-volkswagen-jetta-fwd-4d-sedan-3vwcb7bu6km213791/",
+        "vin": "3VWCB7BU6KM213791",
+        "mileage": 18026
+    },
+    {
         "title": "2020 Volkswagen Tiguan 2.0T SE R-Line Black",
         "price": 25555,
         "year": "2020",
@@ -488,20 +496,12 @@
         "mileage": 54439
     },
     {
-        "title": "2019 Volkswagen Tiguan 2.0T SE",
-        "price": 25995,
-        "year": "2019",
-        "link": "https://www.vwofchicagoland.com/inventory/certified-used-2019-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax3km132582/",
-        "vin": "3VV2B7AX3KM132582",
-        "mileage": 26952
-    },
-    {
         "title": "2019 Volkswagen Tiguan 2.0T SEL",
         "price": 26227,
         "year": "2019",
         "link": "https://www.vwofchicagoland.com/inventory/certified-used-2019-volkswagen-tiguan-2-0t-sel-awd-4d-sport-utility-3vv2b7ax3km121436/",
         "vin": "3VV2B7AX3KM121436",
-        "mileage": 38397
+        "mileage": 38485
     },
     {
         "title": "2019 Volkswagen Golf GTI 2.0T S",
@@ -528,8 +528,16 @@
         "mileage": 16880
     },
     {
+        "title": "2018 Volkswagen Passat 2.0T S",
+        "price": 17359,
+        "year": "2018",
+        "link": "https://www.foxvalleyvw.com/inventory/used-2018-volkswagen-passat-2-0t-s-fwd-4d-sedan-1vwaa7a30jc006350/",
+        "vin": "1VWAA7A30JC006350",
+        "mileage": 51772
+    },
+    {
         "title": "2018 Volkswagen Passat 2.0T R-Line",
-        "price": 20990,
+        "price": 20250,
         "year": "2018",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2018-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwaa7a39jc047530/",
         "vin": "1VWAA7A39JC047530",
@@ -537,7 +545,7 @@
     },
     {
         "title": "2020 Volkswagen Tiguan 2.0T S",
-        "price": 22450,
+        "price": 21500,
         "year": "2020",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2020-volkswagen-tiguan-2-0t-s-fwd-4d-sport-utility-3vv1b7ax5lm077713/",
         "vin": "3VV1B7AX5LM077713",
@@ -545,7 +553,7 @@
     },
     {
         "title": "2021 Volkswagen Tiguan 2.0T SE",
-        "price": 24790,
+        "price": 23994,
         "year": "2021",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2021-volkswagen-tiguan-2-0t-se-fwd-4d-sport-utility-3vv3b7ax8mm029939/",
         "vin": "3VV3B7AX8MM029939",
@@ -553,39 +561,47 @@
     },
     {
         "title": "2021 Volkswagen Tiguan 2.0T S",
-        "price": 24997,
+        "price": 24597,
         "year": "2021",
         "link": "https://www.foxvalleyvw.com/inventory/used-2021-volkswagen-tiguan-2-0t-s-awd-4d-sport-utility-3vv0b7ax7mm010561/",
         "vin": "3VV0B7AX7MM010561",
         "mileage": 27116
     },
     {
+        "title": "2021 Volkswagen Jetta SEL",
+        "price": 24695,
+        "year": "2021",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2021-volkswagen-jetta-sel-fwd-4d-sedan-3vwe57bu8mm016589/",
+        "vin": "3VWE57BU8MM016589",
+        "mileage": 30578
+    },
+    {
         "title": "2019 Volkswagen Tiguan 2.0T SE",
-        "price": 26498,
+        "price": 25979,
         "year": "2019",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2019-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax8km174326/",
         "vin": "3VV2B7AX8KM174326",
         "mileage": 14101
     },
     {
-        "title": "2021 Volkswagen Jetta GLI 2.0T S",
-        "price": 26990,
-        "year": "2021",
-        "link": "https://www.foxvalleyvw.com/inventory/used-2021-volkswagen-jetta-gli-2-0t-s-fwd-4d-sedan-3vw6t7bu2mm039151/",
-        "vin": "3VW6T7BU2MM039151",
-        "mileage": 35760
-    },
-    {
         "title": "2022 Volkswagen Taos 1.5T SE",
-        "price": 26998,
+        "price": 25994,
         "year": "2022",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2022-volkswagen-taos-1-5t-se-awd-4d-sport-utility-3vvlx7b26nm072956/",
         "vin": "3VVLX7B26NM072956",
         "mileage": 10636
     },
     {
+        "title": "2020 Volkswagen Golf GTI 2.0T S",
+        "price": 26995,
+        "year": "2020",
+        "link": "https://www.foxvalleyvw.com/inventory/used-2020-volkswagen-golf-gti-2-0t-s-fwd-4d-hatchback-3vw6t7auxlm005393/",
+        "vin": "3VW6T7AUXLM005393",
+        "mileage": 26690
+    },
+    {
         "title": "2023 Volkswagen Tiguan 2.0T S",
-        "price": 28690,
+        "price": 28280,
         "year": "2023",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-s-awd-4d-sport-utility-3vvfb7ax9pm034245/",
         "vin": "3VVFB7AX9PM034245",
@@ -593,103 +609,87 @@
     },
     {
         "title": "2021 Volkswagen ID.4 Pro S",
-        "price": 29750,
+        "price": 29396,
         "year": "2021",
         "link": "https://www.foxvalleyvw.com/inventory/used-2021-volkswagen-id-4-pro-s-rwd-4d-sport-utility-wvgtmpe25mp034576/",
         "vin": "WVGTMPE25MP034576",
         "mileage": 30397
     },
     {
-        "title": "2023 Volkswagen Tiguan 2.0T SE",
-        "price": 31995,
-        "year": "2023",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax9pm022918/",
-        "vin": "3VV2B7AX9PM022918",
-        "mileage": 8138
-    },
-    {
-        "title": "2023 Volkswagen Taos 1.5T SEL",
-        "price": 32450,
-        "year": "2023",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-sel-awd-4d-sport-utility-3vv2x7b24pm321902/",
-        "vin": "3VV2X7B24PM321902",
-        "mileage": 7857
-    },
-    {
-        "title": "2023 Volkswagen Tiguan 2.0T SE",
-        "price": 32495,
-        "year": "2023",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vvmb7ax3pm017206/",
-        "vin": "3VVMB7AX3PM017206",
-        "mileage": 10358
-    },
-    {
         "title": "2021 Volkswagen Golf GTI 2.0T SE",
-        "price": 32500,
+        "price": 29545,
         "year": "2021",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2021-volkswagen-golf-gti-2-0t-se-fwd-4d-hatchback-3vw6t7au5mm006033/",
         "vin": "3VW6T7AU5MM006033",
         "mileage": 31131
     },
     {
-        "title": "2023 Volkswagen Taos 1.5T SEL",
-        "price": 32750,
+        "title": "2023 Volkswagen Taos 1.5T SE",
+        "price": 30775,
         "year": "2023",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-sel-awd-4d-sport-utility-3vv2x7b20pm309830/",
-        "vin": "3VV2X7B20PM309830",
-        "mileage": 4084
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-se-awd-4d-sport-utility-3vvnx7b2xpm323151/",
+        "vin": "3VVNX7B2XPM323151",
+        "mileage": 5346
+    },
+    {
+        "title": "2023 Volkswagen Taos 1.5T SE",
+        "price": 30775,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-se-awd-4d-sport-utility-3vvnx7b29pm311668/",
+        "vin": "3VVNX7B29PM311668",
+        "mileage": 5814
+    },
+    {
+        "title": "2023 Volkswagen Taos 1.5T SE",
+        "price": 30775,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-se-awd-4d-sport-utility-3vvnx7b20pm324051/",
+        "vin": "3VVNX7B20PM324051",
+        "mileage": 5172
+    },
+    {
+        "title": "2023 Volkswagen Tiguan 2.0T SE",
+        "price": 30789,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-se-fwd-4d-sport-utility-3vv3b7ax5pm045536/",
+        "vin": "3VV3B7AX5PM045536",
+        "mileage": 8944
     },
     {
         "title": "2023 Volkswagen Taos 1.5T SEL",
-        "price": 32998,
+        "price": 31390,
         "year": "2023",
         "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-sel-awd-4d-sport-utility-3vv2x7b28pm321692/",
         "vin": "3VV2X7B28PM321692",
-        "mileage": 3739
+        "mileage": 4002
     },
     {
-        "title": "2021 Volkswagen Atlas 3.6L V6 SE w/Technology R-Line",
-        "price": 36750,
-        "year": "2021",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2021-volkswagen-atlas-3-6l-v6-se-wtechnology-r-line-awd-4d-sport-utility-1v2nr2ca5mc530950/",
-        "vin": "1V2NR2CA5MC530950",
-        "mileage": 22951
+        "title": "2023 Volkswagen Tiguan 2.0T SE",
+        "price": 31550,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax9pm022918/",
+        "vin": "3VV2B7AX9PM022918",
+        "mileage": 8138
     },
     {
-        "title": "2022 Volkswagen Atlas 3.6L V6 SE w/Technology",
-        "price": 36995,
-        "year": "2022",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2022-volkswagen-atlas-3-6l-v6-se-wtechnology-awd-4d-sport-utility-1v2hr2ca0nc565152/",
-        "vin": "1V2HR2CA0NC565152",
-        "mileage": 9390
+        "title": "2023 Volkswagen Tiguan 2.0T SE",
+        "price": 31595,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vvmb7ax3pm017206/",
+        "vin": "3VVMB7AX3PM017206",
+        "mileage": 10358
     },
     {
-        "title": "2022 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
-        "price": 37475,
-        "year": "2022",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2022-volkswagen-atlas-cross-sport-3-6l-v6-se-wtechnology-awd-4d-sport-utility-1v2he2ca4nc207998/",
-        "vin": "1V2HE2CA4NC207998",
-        "mileage": 25451
-    },
-    {
-        "title": "2021 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology R-Line",
-        "price": 37495,
-        "year": "2021",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2021-volkswagen-atlas-cross-sport-3-6l-v6-se-wtechnology-r-line-awd-4d-sport-utility-1v2ne2ca4mc219893/",
-        "vin": "1V2NE2CA4MC219893",
-        "mileage": 42300
-    },
-    {
-        "title": "2020 Volkswagen Atlas Cross Sport 3.6L V6 SEL Premium R-Line",
-        "price": 37573,
-        "year": "2020",
-        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2020-volkswagen-atlas-cross-sport-3-6l-v6-sel-premium-r-line-awd-4d-sport-utility-1v2te2ca1lc220764/",
-        "vin": "1V2TE2CA1LC220764",
-        "mileage": 28203
+        "title": "2023 Volkswagen Taos 1.5T SEL",
+        "price": 31945,
+        "year": "2023",
+        "link": "https://www.foxvalleyvw.com/inventory/certified-used-2023-volkswagen-taos-1-5t-sel-awd-4d-sport-utility-3vv2x7b24pm321902/",
+        "vin": "3VV2X7B24PM321902",
+        "mileage": 7857
     },
     {
         "title": "2019 Volkswagen Golf S",
-        "price": 18899,
+        "price": 18755,
         "year": "2019",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2019-volkswagen-golf-s-fwd-4d-hatchback-3vwg57au3km031900/",
         "vin": "3VWG57AU3KM031900",
@@ -697,15 +697,23 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T S",
-        "price": 19000,
+        "price": 20000,
         "year": "2020",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-s-fwd-4d-sedan-3vwcb7buxlm044361/",
         "vin": "3VWCB7BUXLM044361",
         "mileage": 21500
     },
     {
+        "title": "2018 Volkswagen Passat 2.0T R-Line",
+        "price": 20000,
+        "year": "2018",
+        "link": "https://www.larryroeschvw.com/inventory/certified-used-2018-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwaa7a37jc024442/",
+        "vin": "1VWAA7A37JC024442",
+        "mileage": 40463
+    },
+    {
         "title": "2019 Volkswagen Jetta SEL",
-        "price": 20747,
+        "price": 20564,
         "year": "2019",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2019-volkswagen-jetta-sel-fwd-4d-sedan-3vwe57bu6km198063/",
         "vin": "3VWE57BU6KM198063",
@@ -713,7 +721,7 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 21274,
+        "price": 20986,
         "year": "2020",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwcb7bu8lm054175/",
         "vin": "3VWCB7BU8LM054175",
@@ -721,23 +729,23 @@
     },
     {
         "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 21575,
-        "year": "2020",
-        "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwc57bu7lm103163/",
-        "vin": "3VWC57BU7LM103163",
-        "mileage": 28668
-    },
-    {
-        "title": "2020 Volkswagen Jetta 1.4T SE",
-        "price": 21576,
+        "price": 21249,
         "year": "2020",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwcb7bu3lm037297/",
         "vin": "3VWCB7BU3LM037297",
         "mileage": 39986
     },
     {
+        "title": "2020 Volkswagen Jetta 1.4T SE",
+        "price": 21499,
+        "year": "2020",
+        "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-jetta-1-4t-se-fwd-4d-sedan-3vwc57bu7lm103163/",
+        "vin": "3VWC57BU7LM103163",
+        "mileage": 28668
+    },
+    {
         "title": "2020 Volkswagen Passat 2.0T S",
-        "price": 21889,
+        "price": 21784,
         "year": "2020",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-passat-2-0t-s-fwd-4d-sedan-1vwaa7a35lc005147/",
         "vin": "1VWAA7A35LC005147",
@@ -753,11 +761,19 @@
     },
     {
         "title": "2022 Volkswagen Jetta 1.5T S",
-        "price": 22000,
+        "price": 21998,
         "year": "2022",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2022-volkswagen-jetta-1-5t-s-fwd-4d-sedan-3vwcm7bu6nm001228/",
         "vin": "3VWCM7BU6NM001228",
         "mileage": 18306
+    },
+    {
+        "title": "2021 Volkswagen Jetta 1.4T S",
+        "price": 22000,
+        "year": "2021",
+        "link": "https://www.larryroeschvw.com/inventory/certified-used-2021-volkswagen-jetta-1-4t-s-fwd-4d-sedan-3vwc57bu1mm072414/",
+        "vin": "3VWC57BU1MM072414",
+        "mileage": 5176
     },
     {
         "title": "2022 Volkswagen Jetta 1.5T S",
@@ -769,27 +785,27 @@
     },
     {
         "title": "2019 Volkswagen Tiguan 2.0T SE",
-        "price": 22996,
+        "price": 22593,
         "year": "2019",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2019-volkswagen-tiguan-2-0t-se-awd-4d-sport-utility-3vv2b7ax8km106446/",
         "vin": "3VV2B7AX8KM106446",
         "mileage": 50162
     },
     {
+        "title": "2022 Volkswagen Jetta 1.5T Sport",
+        "price": 23499,
+        "year": "2022",
+        "link": "https://www.larryroeschvw.com/inventory/certified-used-2022-volkswagen-jetta-1-5t-sport-fwd-4d-sedan-3vwam7bu5nm011076/",
+        "vin": "3VWAM7BU5NM011076",
+        "mileage": 15629
+    },
+    {
         "title": "2023 Volkswagen Jetta 1.5T Sport",
-        "price": 23000,
+        "price": 23500,
         "year": "2023",
         "link": "https://www.larryroeschvw.com/inventory/used-2023-volkswagen-jetta-1-5t-sport-fwd-4d-sedan-3vwbm7bu1pm018257/",
         "vin": "3VWBM7BU1PM018257",
         "mileage": 165
-    },
-    {
-        "title": "2019 Volkswagen Jetta SEL",
-        "price": 23494,
-        "year": "2019",
-        "link": "https://www.larryroeschvw.com/inventory/certified-used-2019-volkswagen-jetta-sel-fwd-4d-sedan-3vweb7bu5km237654/",
-        "vin": "3VWEB7BU5KM237654",
-        "mileage": 11831
     },
     {
         "title": "2021 Volkswagen Golf 1.4T TSI",
@@ -798,14 +814,6 @@
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2021-volkswagen-golf-1-4t-tsi-fwd-4d-hatchback-3vwg57auxmm012330/",
         "vin": "3VWG57AUXMM012330",
         "mileage": 9042
-    },
-    {
-        "title": "2022 Volkswagen Jetta 1.5T Sport",
-        "price": 24000,
-        "year": "2022",
-        "link": "https://www.larryroeschvw.com/inventory/certified-used-2022-volkswagen-jetta-1-5t-sport-fwd-4d-sedan-3vwam7bu5nm011076/",
-        "vin": "3VWAM7BU5NM011076",
-        "mileage": 15629
     },
     {
         "title": "2020 Volkswagen Tiguan 2.0T SE",
@@ -817,11 +825,19 @@
     },
     {
         "title": "2020 Volkswagen Passat 2.0T R-Line",
-        "price": 25770,
+        "price": 25000,
         "year": "2020",
         "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwma7a3xlc023883/",
         "vin": "1VWMA7A3XLC023883",
         "mileage": 20089
+    },
+    {
+        "title": "2020 Volkswagen Passat 2.0T R-Line",
+        "price": 25989,
+        "year": "2020",
+        "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwma7a36lc017465/",
+        "vin": "1VWMA7A36LC017465",
+        "mileage": 35871
     },
     {
         "title": "2019 Volkswagen Atlas 3.6L V6 SE",
@@ -830,30 +846,6 @@
         "link": "https://www.larryroeschvw.com/inventory/used-2019-volkswagen-atlas-3-6l-v6-se-awd-4d-sport-utility-1v2lr2caxkc597581/",
         "vin": "1V2LR2CAXKC597581",
         "mileage": 54661
-    },
-    {
-        "title": "2020 Volkswagen Passat 2.0T R-Line",
-        "price": 26488,
-        "year": "2020",
-        "link": "https://www.larryroeschvw.com/inventory/certified-used-2020-volkswagen-passat-2-0t-r-line-fwd-4d-sedan-1vwma7a36lc017465/",
-        "vin": "1VWMA7A36LC017465",
-        "mileage": 35871
-    },
-    {
-        "title": "2019 Volkswagen Tiguan 2.0T SEL R-Line",
-        "price": 26755,
-        "year": "2019",
-        "link": "https://www.larryroeschvw.com/inventory/certified-used-2019-volkswagen-tiguan-2-0t-sel-r-line-awd-4d-sport-utility-3vv2b7ax2km074478/",
-        "vin": "3VV2B7AX2KM074478",
-        "mileage": 41150
-    },
-    {
-        "title": "2020 Volkswagen Jetta ",
-        "price": 20991,
-        "year": 2020,
-        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2020-volkswagen-jetta-fwd-4dr-car-3vwcb7bu0lm072251/",
-        "vin": "3VWCB7BU0LM072251",
-        "mileage": 18923
     },
     {
         "title": "2021 Volkswagen Jetta ",
@@ -896,14 +888,6 @@
         "mileage": 20537
     },
     {
-        "title": "2022 Volkswagen Taos S",
-        "price": 23994,
-        "year": 2022,
-        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-taos-s-fwd-sport-utility-3vvdx7b26nm006816/",
-        "vin": "3VVDX7B26NM006816",
-        "mileage": 12698
-    },
-    {
         "title": "2022 Volkswagen Jetta SE",
         "price": 24991,
         "year": 2022,
@@ -920,14 +904,6 @@
         "mileage": 11776
     },
     {
-        "title": "2021 Volkswagen Arteon SE",
-        "price": 27791,
-        "year": 2021,
-        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2021-volkswagen-arteon-se-fwd-4dr-car-wvwar7an7me007422/",
-        "vin": "WVWAR7AN7ME007422",
-        "mileage": 49460
-    },
-    {
         "title": "2021 Volkswagen Jetta GLI ",
         "price": 28991,
         "year": 2021,
@@ -942,14 +918,6 @@
         "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-taos-sel-awd-sport-utility-3vv2x7b21nm030870/",
         "vin": "3VV2X7B21NM030870",
         "mileage": 34479
-    },
-    {
-        "title": "2022 Volkswagen Tiguan SE",
-        "price": 30994,
-        "year": 2022,
-        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-tiguan-se-awd-sport-utility-3vv2b7ax3nm068824/",
-        "vin": "3VV2B7AX3NM068824",
-        "mileage": 13507
     },
     {
         "title": "2022 Volkswagen Tiguan SE",
@@ -1008,8 +976,40 @@
         "mileage": 37520
     },
     {
+        "title": "2022 Volkswagen Atlas 3.6L V6 SE w/Technology",
+        "price": 37991,
+        "year": 2022,
+        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-atlas-3-6l-v6-se-wtechnology-awd-sport-utility-1v2kr2ca0nc514188/",
+        "vin": "1V2KR2CA0NC514188",
+        "mileage": 17953
+    },
+    {
+        "title": "2022 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
+        "price": 37991,
+        "year": 2022,
+        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-atlas-cross-sport-3-6l-v6-se-wtechnology-awd-sport-utility-1v2ke2ca7nc223568/",
+        "vin": "1V2KE2CA7NC223568",
+        "mileage": 16419
+    },
+    {
+        "title": "2022 Volkswagen Atlas Cross Sport 2.0T SE w/Technology",
+        "price": 38991,
+        "year": 2022,
+        "link": "https://www.pugivolkswagen.com/inventory/certified-used-2022-volkswagen-atlas-cross-sport-2-0t-se-wtechnology-awd-sport-utility-1v2kc2ca2nc218705/",
+        "vin": "1V2KC2CA2NC218705",
+        "mileage": 15751
+    },
+    {
+        "title": "2023 Volkswagen Atlas 2.0T SE w/Technology",
+        "price": 42214,
+        "year": 2023,
+        "link": "https://www.pugivolkswagen.com/inventory/used-2023-volkswagen-atlas-2-0t-se-wtechnology-awd-sport-utility-1v2hp2ca4pc522989/",
+        "vin": "1V2HP2CA4PC522989",
+        "mileage": 8
+    },
+    {
         "title": "2017 Volkswagen Tiguan 2.0T S",
-        "price": 16995,
+        "price": 15995,
         "year": "2017",
         "link": "https://www.vwoaklawn.com/viewdetails/used/wvgbv7ax2hk038114/2017-volkswagen-tiguan-sport-utility?type=cash",
         "vin": "WVGBV7AX2HK038114",
@@ -1017,27 +1017,43 @@
     },
     {
         "title": "2019 Volkswagen Jetta 1.4T S",
-        "price": 17499,
-        "year": "2019",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vwc57bu0km073275/2019-volkswagen-jetta-4dr-car?type=cash",
-        "vin": "3VWC57BU0KM073275",
-        "mileage": 29913
-    },
-    {
-        "title": "2019 Volkswagen Jetta 1.4T S",
-        "price": 17995,
+        "price": 17495,
         "year": "2019",
         "link": "https://www.vwoaklawn.com/viewdetails/used/3vwc57bu9km064767/2019-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWC57BU9KM064767",
         "mileage": 37506
     },
     {
+        "title": "2017 Volkswagen Tiguan Wolfsburg Edition",
+        "price": 17995,
+        "year": "2017",
+        "link": "https://www.vwoaklawn.com/viewdetails/used/wvgrv7ax0hw504680/2017-volkswagen-tiguan-sport-utility?type=cash",
+        "vin": "WVGRV7AX0HW504680",
+        "mileage": 40882
+    },
+    {
         "title": "2021 Volkswagen Jetta 1.4T S",
-        "price": 19995,
+        "price": 18995,
         "year": "2021",
         "link": "https://www.vwoaklawn.com/viewdetails/used/3vwc57bu5mm037911/2021-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWC57BU5MM037911",
         "mileage": 43365
+    },
+    {
+        "title": "2018 Volkswagen Tiguan Limited 2.0T",
+        "price": 19799,
+        "year": "2018",
+        "link": "https://www.vwoaklawn.com/viewdetails/cpo/wvgbv7ax7jk005616/2018-volkswagen-tiguan-limited-sport-utility?type=cash",
+        "vin": "WVGBV7AX7JK005616",
+        "mileage": 43999
+    },
+    {
+        "title": "2019 Volkswagen Jetta SEL",
+        "price": 19995,
+        "year": "2019",
+        "link": "https://www.vwoaklawn.com/viewdetails/used/3vwe57bu8km068298/2019-volkswagen-jetta-4dr-car?type=cash",
+        "vin": "3VWE57BU8KM068298",
+        "mileage": 52605
     },
     {
         "title": "2020 Volkswagen Passat 2.0T SE",
@@ -1057,27 +1073,27 @@
     },
     {
         "title": "2021 Volkswagen Passat 2.0T SE",
-        "price": 20699,
+        "price": 20700,
         "year": "2021",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/1vwsa7a33mc010238/2021-volkswagen-passat-4dr-car?type=cash",
         "vin": "1VWSA7A33MC010238",
         "mileage": 42326
     },
     {
-        "title": "2019 Volkswagen Jetta R-Line",
-        "price": 20700,
-        "year": "2019",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vwcb7bu8km227112/2019-volkswagen-jetta-4dr-car?type=cash",
-        "vin": "3VWCB7BU8KM227112",
-        "mileage": 19701
-    },
-    {
         "title": "2020 Volkswagen Jetta R-Line",
         "price": 21995,
         "year": "2020",
-        "link": "https://www.vwoaklawn.com/viewdetails/used/3vwc57bu6lm100514/2020-volkswagen-jetta-4dr-car?type=cash",
+        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vwc57bu6lm100514/2020-volkswagen-jetta-4dr-car?type=cash",
         "vin": "3VWC57BU6LM100514",
-        "mileage": 22066
+        "mileage": 22068
+    },
+    {
+        "title": "2021 Volkswagen Jetta SE",
+        "price": 22299,
+        "year": "2021",
+        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vwc57bu5mm025287/2021-volkswagen-jetta-4dr-car?type=cash",
+        "vin": "3VWC57BU5MM025287",
+        "mileage": 16981
     },
     {
         "title": "2021 Volkswagen Tiguan S",
@@ -1088,12 +1104,12 @@
         "mileage": 44651
     },
     {
-        "title": "2021 Volkswagen Passat 2.0T SE",
+        "title": "2020 Volkswagen Tiguan 2.0T SE",
         "price": 23995,
-        "year": "2021",
-        "link": "https://www.vwoaklawn.com/viewdetails/used/1vwsa7a36mc017636/2021-volkswagen-passat-4dr-car?type=cash",
-        "vin": "1VWSA7A36MC017636",
-        "mileage": 14365
+        "year": "2020",
+        "link": "https://www.vwoaklawn.com/viewdetails/used/3vv3b7axxlm155413/2020-volkswagen-tiguan-sport-utility?type=cash",
+        "vin": "3VV3B7AXXLM155413",
+        "mileage": 19989
     },
     {
         "title": "2023 Volkswagen Jetta Sport",
@@ -1105,55 +1121,23 @@
     },
     {
         "title": "2019 Volkswagen Jetta GLI 2.0T Autobahn",
-        "price": 23996,
+        "price": 24495,
         "year": "2019",
         "link": "https://www.vwoaklawn.com/viewdetails/used/3vw5t7bu6km144297/2019-volkswagen-jetta-gli-4dr-car?type=cash",
         "vin": "3VW5T7BU6KM144297",
         "mileage": 37656
     },
     {
-        "title": "2020 Volkswagen Tiguan 2.0T SEL",
-        "price": 25999,
-        "year": "2020",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vv2b7ax3lm131434/2020-volkswagen-tiguan-sport-utility?type=cash",
-        "vin": "3VV2B7AX3LM131434",
-        "mileage": 25241
-    },
-    {
-        "title": "2022 Volkswagen Taos SE",
-        "price": 26299,
-        "year": "2022",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vvlx7b28nm062994/2022-volkswagen-taos-sport-utility?type=cash",
-        "vin": "3VVLX7B28NM062994",
-        "mileage": 11567
-    },
-    {
-        "title": "2020 Volkswagen Golf GTI 2.0T S",
-        "price": 27495,
-        "year": "2020",
-        "link": "https://www.vwoaklawn.com/viewdetails/used/3vw5t7au3lm005800/2020-volkswagen-golf-gti-hatchback?type=cash",
-        "vin": "3VW5T7AU3LM005800",
-        "mileage": 31853
-    },
-    {
         "title": "2021 Volkswagen Atlas 2.0T S",
-        "price": 27863,
+        "price": 28000,
         "year": "2021",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2gp2ca6mc521656/2021-volkswagen-atlas-sport-utility?type=cash",
+        "link": "https://www.vwoaklawn.com/viewdetails/used/1v2gp2ca6mc521656/2021-volkswagen-atlas-sport-utility?type=cash",
         "vin": "1V2GP2CA6MC521656",
         "mileage": 58369
     },
     {
         "title": "2021 Volkswagen Atlas 3.6L V6 SE w/Technology",
-        "price": 28499,
-        "year": "2021",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2hr2ca4mc548045/2021-volkswagen-atlas-sport-utility?type=cash",
-        "vin": "1V2HR2CA4MC548045",
-        "mileage": 58486
-    },
-    {
-        "title": "2021 Volkswagen Atlas 3.6L V6 SE w/Technology",
-        "price": 28899,
+        "price": 28400,
         "year": "2021",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2kr2ca0mc545942/2021-volkswagen-atlas-sport-utility?type=cash",
         "vin": "1V2KR2CA0MC545942",
@@ -1161,7 +1145,7 @@
     },
     {
         "title": "2022 Volkswagen Taos SEL",
-        "price": 28995,
+        "price": 28495,
         "year": "2022",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vvjx7b27nm045532/2022-volkswagen-taos-sport-utility?type=cash",
         "vin": "3VVJX7B27NM045532",
@@ -1173,11 +1157,11 @@
         "year": "2019",
         "link": "https://www.vwoaklawn.com/viewdetails/used/1v2lr2ca9kc601295/2019-volkswagen-atlas-sport-utility?type=cash",
         "vin": "1V2LR2CA9KC601295",
-        "mileage": 30814
+        "mileage": 30815
     },
     {
         "title": "2022 Volkswagen Taos SEL",
-        "price": 29300,
+        "price": 29000,
         "year": "2022",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vv2x7b23nm071596/2022-volkswagen-taos-sport-utility?type=cash",
         "vin": "3VV2X7B23NM071596",
@@ -1192,6 +1176,14 @@
         "mileage": 42159
     },
     {
+        "title": "2019 Volkswagen Atlas 3.6L V6 SEL",
+        "price": 29995,
+        "year": "2019",
+        "link": "https://www.vwoaklawn.com/viewdetails/used/1v2mr2ca1kc507366/2019-volkswagen-atlas-sport-utility?type=cash",
+        "vin": "1V2MR2CA1KC507366",
+        "mileage": 47558
+    },
+    {
         "title": "2022 Volkswagen Taos SEL",
         "price": 29995,
         "year": "2022",
@@ -1201,7 +1193,7 @@
     },
     {
         "title": "2019 Volkswagen Atlas 3.6L V6 SE w/Technology R-Line",
-        "price": 30995,
+        "price": 30395,
         "year": "2019",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2xr2ca3kc610348/2019-volkswagen-atlas-sport-utility?type=cash",
         "vin": "1V2XR2CA3KC610348",
@@ -1213,11 +1205,11 @@
         "year": "2021",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2kr2ca5mc502276/2021-volkswagen-atlas-sport-utility?type=cash",
         "vin": "1V2KR2CA5MC502276",
-        "mileage": 40570
+        "mileage": 40572
     },
     {
         "title": "2021 Volkswagen Atlas Cross Sport 2.0T SE",
-        "price": 31199,
+        "price": 31500,
         "year": "2021",
         "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2lc2ca3mc212673/2021-volkswagen-atlas-cross-sport-sport-utility?type=cash",
         "vin": "1V2LC2CA3MC212673",
@@ -1240,16 +1232,24 @@
         "mileage": 7091
     },
     {
-        "title": "2022 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
-        "price": 35449,
+        "title": "2022 Volkswagen Tiguan SE R-Line Black",
+        "price": 34500,
         "year": "2022",
-        "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2he2ca3nc231287/2022-volkswagen-atlas-cross-sport-sport-utility?type=cash",
-        "vin": "1V2HE2CA3NC231287",
-        "mileage": 7502
+        "link": "https://www.vwoaklawn.com/viewdetails/cpo/3vv8b7ax8nm010346/2022-volkswagen-tiguan-sport-utility?type=cash",
+        "vin": "3VV8B7AX8NM010346",
+        "mileage": 18899
+    },
+    {
+        "title": "2021 Volkswagen Atlas 2.0T SE w/Technology",
+        "price": 35995,
+        "year": "2021",
+        "link": "https://www.vwoaklawn.com/viewdetails/cpo/1v2hp2ca1mc500251/2021-volkswagen-atlas-sport-utility?type=cash",
+        "vin": "1V2HP2CA1MC500251",
+        "mileage": 19167
     },
     {
         "title": "2017 Volkswagen Tiguan 2.0T S",
-        "price": 16995,
+        "price": 15995,
         "year": "2017",
         "link": "https://vworland.com/viewdetails/used/wvgbv7ax2hk038114/2017-volkswagen-tiguan-sport-utility?type=finance",
         "vin": "WVGBV7AX2HK038114",
@@ -1257,27 +1257,43 @@
     },
     {
         "title": "2019 Volkswagen Jetta 1.4T S",
-        "price": 17499,
-        "year": "2019",
-        "link": "https://vworland.com/viewdetails/cpo/3vwc57bu0km073275/2019-volkswagen-jetta-4dr-car?type=finance",
-        "vin": "3VWC57BU0KM073275",
-        "mileage": 29913
-    },
-    {
-        "title": "2019 Volkswagen Jetta 1.4T S",
-        "price": 17995,
+        "price": 17495,
         "year": "2019",
         "link": "https://vworland.com/viewdetails/used/3vwc57bu9km064767/2019-volkswagen-jetta-4dr-car?type=finance",
         "vin": "3VWC57BU9KM064767",
         "mileage": 37506
     },
     {
+        "title": "2017 Volkswagen Tiguan Wolfsburg Edition",
+        "price": 17995,
+        "year": "2017",
+        "link": "https://vworland.com/viewdetails/used/wvgrv7ax0hw504680/2017-volkswagen-tiguan-sport-utility?type=finance",
+        "vin": "WVGRV7AX0HW504680",
+        "mileage": 40882
+    },
+    {
         "title": "2021 Volkswagen Jetta 1.4T S",
-        "price": 19995,
+        "price": 18995,
         "year": "2021",
         "link": "https://vworland.com/viewdetails/used/3vwc57bu5mm037911/2021-volkswagen-jetta-4dr-car?type=finance",
         "vin": "3VWC57BU5MM037911",
         "mileage": 43365
+    },
+    {
+        "title": "2018 Volkswagen Tiguan Limited 2.0T",
+        "price": 19799,
+        "year": "2018",
+        "link": "https://vworland.com/viewdetails/cpo/wvgbv7ax7jk005616/2018-volkswagen-tiguan-limited-sport-utility?type=finance",
+        "vin": "WVGBV7AX7JK005616",
+        "mileage": 43999
+    },
+    {
+        "title": "2019 Volkswagen Jetta SEL",
+        "price": 19995,
+        "year": "2019",
+        "link": "https://vworland.com/viewdetails/used/3vwe57bu8km068298/2019-volkswagen-jetta-4dr-car?type=finance",
+        "vin": "3VWE57BU8KM068298",
+        "mileage": 52605
     },
     {
         "title": "2020 Volkswagen Passat 2.0T SE",
@@ -1297,27 +1313,27 @@
     },
     {
         "title": "2021 Volkswagen Passat 2.0T SE",
-        "price": 20699,
+        "price": 20700,
         "year": "2021",
         "link": "https://vworland.com/viewdetails/cpo/1vwsa7a33mc010238/2021-volkswagen-passat-4dr-car?type=finance",
         "vin": "1VWSA7A33MC010238",
         "mileage": 42326
     },
     {
-        "title": "2019 Volkswagen Jetta R-Line",
-        "price": 20700,
-        "year": "2019",
-        "link": "https://vworland.com/viewdetails/cpo/3vwcb7bu8km227112/2019-volkswagen-jetta-4dr-car?type=finance",
-        "vin": "3VWCB7BU8KM227112",
-        "mileage": 19701
-    },
-    {
         "title": "2020 Volkswagen Jetta R-Line",
         "price": 21995,
         "year": "2020",
-        "link": "https://vworland.com/viewdetails/used/3vwc57bu6lm100514/2020-volkswagen-jetta-4dr-car?type=finance",
+        "link": "https://vworland.com/viewdetails/cpo/3vwc57bu6lm100514/2020-volkswagen-jetta-4dr-car?type=finance",
         "vin": "3VWC57BU6LM100514",
-        "mileage": 22066
+        "mileage": 22068
+    },
+    {
+        "title": "2021 Volkswagen Jetta SE",
+        "price": 22299,
+        "year": "2021",
+        "link": "https://vworland.com/viewdetails/cpo/3vwc57bu5mm025287/2021-volkswagen-jetta-4dr-car?type=finance",
+        "vin": "3VWC57BU5MM025287",
+        "mileage": 16981
     },
     {
         "title": "2021 Volkswagen Tiguan S",
@@ -1328,12 +1344,12 @@
         "mileage": 44651
     },
     {
-        "title": "2021 Volkswagen Passat 2.0T SE",
+        "title": "2020 Volkswagen Tiguan 2.0T SE",
         "price": 23995,
-        "year": "2021",
-        "link": "https://vworland.com/viewdetails/used/1vwsa7a36mc017636/2021-volkswagen-passat-4dr-car?type=finance",
-        "vin": "1VWSA7A36MC017636",
-        "mileage": 14365
+        "year": "2020",
+        "link": "https://vworland.com/viewdetails/used/3vv3b7axxlm155413/2020-volkswagen-tiguan-sport-utility?type=finance",
+        "vin": "3VV3B7AXXLM155413",
+        "mileage": 19989
     },
     {
         "title": "2023 Volkswagen Jetta Sport",
@@ -1345,39 +1361,15 @@
     },
     {
         "title": "2019 Volkswagen Jetta GLI 2.0T Autobahn",
-        "price": 23996,
+        "price": 24495,
         "year": "2019",
         "link": "https://vworland.com/viewdetails/used/3vw5t7bu6km144297/2019-volkswagen-jetta-gli-4dr-car?type=finance",
         "vin": "3VW5T7BU6KM144297",
         "mileage": 37656
     },
     {
-        "title": "2020 Volkswagen Tiguan 2.0T SEL",
-        "price": 25999,
-        "year": "2020",
-        "link": "https://vworland.com/viewdetails/cpo/3vv2b7ax3lm131434/2020-volkswagen-tiguan-sport-utility?type=finance",
-        "vin": "3VV2B7AX3LM131434",
-        "mileage": 25241
-    },
-    {
-        "title": "2022 Volkswagen Taos SE",
-        "price": 26299,
-        "year": "2022",
-        "link": "https://vworland.com/viewdetails/cpo/3vvlx7b28nm062994/2022-volkswagen-taos-sport-utility?type=finance",
-        "vin": "3VVLX7B28NM062994",
-        "mileage": 11567
-    },
-    {
-        "title": "2020 Volkswagen Golf GTI 2.0T S",
-        "price": 27495,
-        "year": "2020",
-        "link": "https://vworland.com/viewdetails/used/3vw5t7au3lm005800/2020-volkswagen-golf-gti-hatchback?type=finance",
-        "vin": "3VW5T7AU3LM005800",
-        "mileage": 31853
-    },
-    {
         "title": "2021 Volkswagen Atlas 3.6L V6 SE w/Technology",
-        "price": 28899,
+        "price": 28400,
         "year": "2021",
         "link": "https://vworland.com/viewdetails/cpo/1v2kr2ca0mc545942/2021-volkswagen-atlas-sport-utility?type=finance",
         "vin": "1V2KR2CA0MC545942",
@@ -1385,7 +1377,7 @@
     },
     {
         "title": "2022 Volkswagen Taos SEL",
-        "price": 28995,
+        "price": 28495,
         "year": "2022",
         "link": "https://vworland.com/viewdetails/cpo/3vvjx7b27nm045532/2022-volkswagen-taos-sport-utility?type=finance",
         "vin": "3VVJX7B27NM045532",
@@ -1397,11 +1389,11 @@
         "year": "2019",
         "link": "https://vworland.com/viewdetails/used/1v2lr2ca9kc601295/2019-volkswagen-atlas-sport-utility?type=finance",
         "vin": "1V2LR2CA9KC601295",
-        "mileage": 30814
+        "mileage": 30815
     },
     {
         "title": "2022 Volkswagen Taos SEL",
-        "price": 29300,
+        "price": 29000,
         "year": "2022",
         "link": "https://vworland.com/viewdetails/cpo/3vv2x7b23nm071596/2022-volkswagen-taos-sport-utility?type=finance",
         "vin": "3VV2X7B23NM071596",
@@ -1424,8 +1416,16 @@
         "mileage": 20554
     },
     {
+        "title": "2019 Volkswagen Atlas 3.6L V6 SEL",
+        "price": 29995,
+        "year": "2019",
+        "link": "https://vworland.com/viewdetails/used/1v2mr2ca1kc507366/2019-volkswagen-atlas-sport-utility?type=finance",
+        "vin": "1V2MR2CA1KC507366",
+        "mileage": 47558
+    },
+    {
         "title": "2019 Volkswagen Atlas 3.6L V6 SE w/Technology R-Line",
-        "price": 30995,
+        "price": 30395,
         "year": "2019",
         "link": "https://vworland.com/viewdetails/cpo/1v2xr2ca3kc610348/2019-volkswagen-atlas-sport-utility?type=finance",
         "vin": "1V2XR2CA3KC610348",
@@ -1437,11 +1437,11 @@
         "year": "2021",
         "link": "https://vworland.com/viewdetails/cpo/1v2kr2ca5mc502276/2021-volkswagen-atlas-sport-utility?type=finance",
         "vin": "1V2KR2CA5MC502276",
-        "mileage": 40570
+        "mileage": 40572
     },
     {
         "title": "2021 Volkswagen Atlas Cross Sport 2.0T SE",
-        "price": 31199,
+        "price": 31500,
         "year": "2021",
         "link": "https://vworland.com/viewdetails/cpo/1v2lc2ca3mc212673/2021-volkswagen-atlas-cross-sport-sport-utility?type=finance",
         "vin": "1V2LC2CA3MC212673",
@@ -1464,16 +1464,16 @@
         "mileage": 7091
     },
     {
-        "title": "2022 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
-        "price": 35449,
+        "title": "2022 Volkswagen Tiguan SE R-Line Black",
+        "price": 34500,
         "year": "2022",
-        "link": "https://vworland.com/viewdetails/cpo/1v2he2ca3nc231287/2022-volkswagen-atlas-cross-sport-sport-utility?type=finance",
-        "vin": "1V2HE2CA3NC231287",
-        "mileage": 7502
+        "link": "https://vworland.com/viewdetails/cpo/3vv8b7ax8nm010346/2022-volkswagen-tiguan-sport-utility?type=finance",
+        "vin": "3VV8B7AX8NM010346",
+        "mileage": 18899
     },
     {
         "title": "2021 Volkswagen Atlas 2.0T SE w/Technology",
-        "price": 36995,
+        "price": 35995,
         "year": "2021",
         "link": "https://vworland.com/viewdetails/cpo/1v2hp2ca1mc500251/2021-volkswagen-atlas-sport-utility?type=finance",
         "vin": "1V2HP2CA1MC500251",
@@ -1496,52 +1496,36 @@
         "mileage": 45450
     },
     {
-        "title": "Pre-Owned 2015 Volkswagen Golf GTI Autobahn w/Performance Pkg",
-        "price": 19876,
-        "year": 2015,
-        "link": "https://www.hawkvw.com/auto/preowned-2015-volkswagen-golf-gti-autobahn-wperformance-pkg-joliet-il/80381009/",
-        "vin": "3VW547AU6FM091122",
-        "mileage": 41577
-    },
-    {
-        "title": "Pre-Owned 2019 Volkswagen Jetta 1.4T SE",
-        "price": 21971,
-        "year": 2019,
-        "link": "https://www.hawkvw.com/auto/preowned-2019-volkswagen-jetta-14t-se-joliet-il/80821610/",
-        "vin": "3VWC57BU9KM001975",
-        "mileage": 24827
-    },
-    {
-        "title": "Certified 2022 Volkswagen Taos S",
-        "price": 23898,
-        "year": 2022,
-        "link": "https://www.hawkvw.com/auto/preowned-2022-volkswagen-taos-s-joliet-il/78398138/",
-        "vin": "3VVAX7B23NM078818",
-        "mileage": 20347
-    },
-    {
         "title": "Certified 2020 Volkswagen Tiguan S",
-        "price": 24254,
+        "price": 20998,
         "year": 2020,
-        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-tiguan-s-joliet-il/77916098/",
-        "vin": "3VV0B7AX4LM131403",
-        "mileage": 32612
+        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-tiguan-s-joliet-il/80933546/",
+        "vin": "3VV1B7AX1LM129452",
+        "mileage": 47330
     },
     {
         "title": "Certified 2020 Volkswagen Tiguan S",
-        "price": 24493,
+        "price": 22998,
         "year": 2020,
         "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-tiguan-s-joliet-il/77859668/",
         "vin": "3VV0B7AX5LM176446",
         "mileage": 30324
     },
     {
-        "title": "Certified 2020 Volkswagen Jetta",
-        "price": 24879,
+        "title": "Certified 2020 Volkswagen Atlas 2.0T S",
+        "price": 25995,
         "year": 2020,
-        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-jetta-joliet-il/79357808/",
-        "vin": "3VW5T7BU0LM036758",
-        "mileage": 39198
+        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-atlas-20t-s-joliet-il/80999897/",
+        "vin": "1V2AP2CA9LC501888",
+        "mileage": 45343
+    },
+    {
+        "title": "Certified 2020 Volkswagen Tiguan SEL",
+        "price": 26795,
+        "year": 2020,
+        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-tiguan-sel-joliet-il/80891690/",
+        "vin": "3VV2B7AX5LM162569",
+        "mileage": 42440
     },
     {
         "title": "Certified 2021 Volkswagen Tiguan SE",
@@ -1552,107 +1536,146 @@
         "mileage": 28132
     },
     {
-        "title": "Certified 2021 Volkswagen Tiguan SE R-Line Black",
-        "price": 27876,
-        "year": 2021,
-        "link": "https://www.hawkvw.com/auto/preowned-2021-volkswagen-tiguan-se-rline-black-joliet-il/79980491/",
-        "vin": "3VV3B7AXXMM107962",
-        "mileage": 32163
-    },
-    {
-        "title": "Pre-Owned 2021 Volkswagen Passat 2.0T R-Line",
-        "price": 28559,
-        "year": 2021,
-        "link": "https://www.hawkvw.com/auto/preowned-2021-volkswagen-passat-20t-rline-near-joliet-il/71424485/",
-        "vin": "1VWMA7A31MC009601",
-        "mileage": 31964
+        "title": "Certified 2022 Volkswagen Taos SE",
+        "price": 28995,
+        "year": 2022,
+        "link": "https://www.hawkvw.com/auto/preowned-2022-volkswagen-taos-se-joliet-il/80897438/",
+        "vin": "3VVWX7B23NM048112",
+        "mileage": 4886
     },
     {
         "title": "Certified 2022 Volkswagen Taos SE",
-        "price": 28595,
+        "price": 28995,
         "year": 2022,
         "link": "https://www.hawkvw.com/auto/preowned-2022-volkswagen-taos-se-joliet-il/80723888/",
         "vin": "3VVLX7B29NM097463",
         "mileage": 12744
     },
     {
-        "title": "Certified 2022 Volkswagen Tiguan SE",
-        "price": 29595,
+        "title": "Certified 2023 Volkswagen Taos SE",
+        "price": 29598,
+        "year": 2023,
+        "link": "https://www.hawkvw.com/auto/preowned-2023-volkswagen-taos-se-joliet-il/78403544/",
+        "vin": "3VVNX7B26PM302023",
+        "mileage": 9998
+    },
+    {
+        "title": "Pre-Owned 2020 Volkswagen Jetta SEL",
+        "price": 29963,
+        "year": 2020,
+        "link": "https://www.hawkvw.com/auto/preowned-2020-volkswagen-jetta-sel-near-joliet-il/71424728/",
+        "vin": "3VWEB7BU8LM071440",
+        "mileage": ""
+    },
+    {
+        "title": "Certified 2021 Volkswagen Atlas 2.0T SE",
+        "price": 29995,
+        "year": 2021,
+        "link": "https://www.hawkvw.com/auto/preowned-2021-volkswagen-atlas-20t-se-joliet-il/80947382/",
+        "vin": "1V2DP2CA2MC514934",
+        "mileage": 23722
+    },
+    {
+        "title": "Certified 2022 Volkswagen Taos SEL",
+        "price": 30298,
         "year": 2022,
-        "link": "https://www.hawkvw.com/auto/preowned-2022-volkswagen-tiguan-se-joliet-il/80593751/",
-        "vin": "3VV3B7AX0NM056196",
-        "mileage": 18133
+        "link": "https://www.hawkvw.com/auto/preowned-2022-volkswagen-taos-sel-joliet-il/76103147/",
+        "vin": "3VVJX7B23NM033751",
+        "mileage": 8175
     },
     {
-        "title": "2017 Volkswagen Tiguan Limited 2.0T",
-        "price": 17300,
-        "year": 2017,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2017-Volkswagen-Tiguan+Limited-c0017ac80a0e0a9335458373a05c3b9f.htm",
-        "vin": "WVGBV7AX0HK048074",
-        "mileage": 37797
-    },
-    {
-        "title": "2018 Volkswagen Passat 2.0T SE",
-        "price": 17900,
-        "year": 2018,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2018-Volkswagen-Passat-c9e1f1d40a0e081d1399ba01a8a1b616.htm",
-        "vin": "1VWBA7A34JC040926",
-        "mileage": 54328
-    },
-    {
-        "title": "2019 Volkswagen Tiguan 2.0T SE 4MOTION",
-        "price": 21700,
-        "year": 2019,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2019-Volkswagen-Tiguan-565822c70a0e081d112f0f567145a2de.htm",
-        "vin": "3VV2B7AX0KM198345",
-        "mileage": 42778
+        "title": "2020 Volkswagen Tiguan 2.0T SE 4MOTION",
+        "price": 22500,
+        "year": 2020,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2020-Volkswagen-Tiguan-46dcd3820a0e081d6a28153e416b69e8.htm",
+        "vin": "3VV2B7AXXLM030777",
+        "mileage": 59013
     },
     {
         "title": "2021 Volkswagen Tiguan 2.0T S",
-        "price": 23500,
+        "price": 23000,
         "year": 2021,
         "link": "https://www.gurneevw.com/used/Volkswagen/2021-Volkswagen-Tiguan-adb8eb080a0e087f63f17acffceb9158.htm",
         "vin": "3VV1B7AX5MM129312",
         "mileage": 16962
     },
     {
-        "title": "2021 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology R-Line 4MOTION",
-        "price": 31500,
+        "title": "2020 Volkswagen Tiguan 2.0T SE 4MOTION",
+        "price": 24000,
+        "year": 2020,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2020-Volkswagen-Tiguan-4cb8c2160a0e081d6a28153eea4cff96.htm",
+        "vin": "3VV2B7AX8LM092131",
+        "mileage": 34528
+    },
+    {
+        "title": "2019 Volkswagen Golf GTI 2.0T SE",
+        "price": 25000,
+        "year": 2019,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2019-Volkswagen-Golf+GTI-3e2e5a240a0e0a91266c491e8e5a8ac1.htm",
+        "vin": "3VW5T7AU1KM034131",
+        "mileage": 57677
+    },
+    {
+        "title": "2023 Volkswagen Taos 1.5T SE",
+        "price": 29300,
+        "year": 2023,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2023-Volkswagen-Taos-403bb54d0a0e087f102b3b1df685ef47.htm",
+        "vin": "3VVNX7B26PM317170",
+        "mileage": 3677
+    },
+    {
+        "title": "2022 Volkswagen Tiguan 2.0T SE",
+        "price": 30300,
+        "year": 2022,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Tiguan-54fdd1f80a0e087f102b3b1d7f60bc5b.htm",
+        "vin": "3VV2B7AX5NM122835"
+    },
+    {
+        "title": "2021 Volkswagen ID.4 Pro",
+        "price": 30500,
         "year": 2021,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2021-Volkswagen-Atlas+Cross+Sport-81aea4ea0a0e081d112f0f5633a20aad.htm",
-        "vin": "1V2RE2CA5MC211089",
-        "mileage": 59947
+        "link": "https://www.gurneevw.com/used/Volkswagen/2021-Volkswagen-ID.4-5311ee860a0e0a9966d166e52b5088a8.htm",
+        "vin": "WVGRMPE2XMP031473",
+        "mileage": 29312
+    },
+    {
+        "title": "2020 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
+        "price": 31500,
+        "year": 2020,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2020-Volkswagen-Atlas+Cross+Sport-51697e030a0e094a1d475fe653082997.htm",
+        "vin": "1V25E2CA2LC211449",
+        "mileage": 7783
     },
     {
         "title": "2019 Volkswagen Golf R 2.0T w/DCC & Navigation 4MOTION",
-        "price": 34000,
+        "price": 31800,
         "year": 2019,
         "link": "https://www.gurneevw.com/used/Volkswagen/2019-Volkswagen-Golf+R-e93896b20a0e0a923dd53addc20701a8.htm",
         "vin": "WVWVA7AU9KW216524",
         "mileage": 33380
     },
     {
+        "title": "2022 Volkswagen Atlas Cross Sport 2.0T SE w/Technology",
+        "price": 33000,
+        "year": 2022,
+        "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Atlas+Cross+Sport-516976280a0e094a1d475fe63ca0523f.htm",
+        "vin": "1V2JC2CA3NC201892",
+        "mileage": 31004
+    },
+    {
         "title": "2022 Volkswagen Atlas Cross Sport 3.6L V6 SE w/Technology",
-        "price": 35500,
+        "price": 35000,
         "year": 2022,
         "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Atlas+Cross+Sport-aced842f0a0e0a94480ac77f43d81661.htm",
         "vin": "1V2HE2CA1NC228551",
         "mileage": 8824
     },
     {
-        "title": "2022 Volkswagen Arteon 2.0T SEL R-Line 4MOTION",
-        "price": 35500,
+        "title": "2022 Volkswagen Atlas Cross Sport 2.0T SEL R-Line",
+        "price": 37300,
         "year": 2022,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Arteon-aced85e50a0e0a94480ac77fcbf76091.htm",
-        "vin": "WVWAR7AN1NE010026",
-        "mileage": 12300
-    },
-    {
-        "title": "2022 Volkswagen Arteon 2.0T SEL R-Line 4MOTION",
-        "price": 37900,
-        "year": 2022,
-        "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Arteon-aced7ef90a0e0a94480ac77f3e74ecfd.htm",
-        "vin": "WVWAR7AN9NE011702",
-        "mileage": 6440
+        "link": "https://www.gurneevw.com/used/Volkswagen/2022-Volkswagen-Atlas+Cross+Sport-51dec57b0a0e0a906c84225601c9803e.htm",
+        "vin": "1V2SC2CA3NC221130",
+        "mileage": 43772
     }
 ]
