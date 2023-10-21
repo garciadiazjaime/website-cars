@@ -258,13 +258,13 @@ const main = async () => {
       ssl: true,
     },
     {
-      url: "https://www.pugivolkswagen.com/used-vehicles/?idx=low_to_high&_dFR%5Bmake%5D%5B0%5D=Volkswagen&_dFR%5Btype%5D%5B0%5D=Used&_dFR%5Btype%5D%5B1%5D=Certified%2520Used&_nR%5Bmiles%5D%5B%3C=%5D%5B0%5D=52110&_paymentType=our_price",
+      url: "https://www.cityvwevanston.com/used-vehicles/?idx=low_to_high&_dFR%5Btype%5D%5B0%5D=Used&_dFR%5Btype%5D%5B1%5D=Certified%2520Used&_nR%5Bmiles%5D%5B%3C=%5D%5B0%5D=42113&_paymentType=our_price",
       cookies: [
         {
           name: "__cf_bm",
           value:
-            "liIhuutTv_3FUoMyUTBSwUVOknwFQJooGwDyBCvx5EQ-1688336400-0-AQYzQKPlqZ701pId16SrwLMInqGfRD6/GTyw0HZTDsQNxfJBRucyDTuqa7aJklTxpm9Nt2eXSzBJPc9jieno6qaERlFLBKdBEkSbzxZ+8udY",
-          domain: ".www.pugivolkswagen.com",
+            "UJnB.vtILrQls9dN2LG4rmhOJ7xhkApueg65A443HQ0-1697905906-0-AS07VHMB3yzOcl7/I595LNqCfxeuGogDpdp926o1/E4lV5ghB97ALiODe4XEQ1WxqegNerhO9G5w4ogCyrDsuPw=",
+          domain: ".www.cityvwevanston.com",
         },
       ],
       mapper: "B",
