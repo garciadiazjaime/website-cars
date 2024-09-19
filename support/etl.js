@@ -2,6 +2,7 @@ const fetch = require("node-fetch");
 const cheerio = require("cheerio");
 const fs = require("fs");
 const puppeteer = require("puppeteer");
+const async = require("async");
 
 const extractHTML = async (url) => {
   const response = await fetch(url);
@@ -120,15 +121,14 @@ const mapperC = () => ({
 });
 
 const mapperD = () => ({
-  selector: ".vehicle_item",
+  selector: ".vehicle-content",
   run: ($, item) => {
-    const title = $(item).find(".vehicle_title").text().trim();
-    const price = $(item).find("capital-one-entry-button").data("sales-price");
-    const year = $(item).find("capital-one-entry-button").data("year");
-    const href = $(item).find(".vehicle_title a").attr("href");
-    const link = `https://www.hawkvw.com${href}`;
-    const vin = $(item).find("capital-one-entry-button").data("vin");
-    const mileage = $(item).find("capital-one-entry-button").data("mileage");
+    const title = $(item).find("h2").text().trim();
+    const price = toNumber($(item).find(".srp-your-price").text().trim());
+    const year = title.slice(0, 4);
+    const link = $(item).find(".inventory-btns a").attr("href");
+    const vin = $(item).find(".dvs_vin_btn").data("vin");
+    const mileage = toNumber($(item).find(".mileage").text().trim());
 
     return {
       title,
@@ -206,7 +206,7 @@ const main = async () => {
       mapper: "A",
     },
     {
-      url: "https://www.cityvwchicago.com/used-vehicles/?idx=low_to_high&_dFR%5Bmake%5D%5B0%5D=Volkswagen&_dFR%5Btype%5D%5B0%5D=Used&_dFR%5Btype%5D%5B1%5D=Certified%2520Used&_nR%5Bmiles%5D%5B%3C=%5D%5B0%5D=61196&_paymentType=our_price",
+      url: "https://www.cityvwchicago.com/inventory/used/volkswagen?paymenttype=cash&intransit=true&instock=true&inproduction=true&mileagemin=1045&mileagemax=49847",
       cookies: [
         {
           name: "__cf_bm",
@@ -215,7 +215,7 @@ const main = async () => {
           domain: ".www.cityvwchicago.com",
         },
       ],
-      mapper: "B",
+      mapper: "D",
       ssl: true,
     },
     {
@@ -258,7 +258,7 @@ const main = async () => {
       ssl: true,
     },
     {
-      url: "https://www.cityvwevanston.com/used-vehicles/?idx=low_to_high&_dFR%5Btype%5D%5B0%5D=Used&_dFR%5Btype%5D%5B1%5D=Certified%2520Used&_nR%5Bmiles%5D%5B%3C=%5D%5B0%5D=42113&_paymentType=our_price",
+      url: "https://www.cityvwevanston.com/inventory/used/volkswagen?paymenttype=cash&intransit=true&instock=true&inproduction=true&mileagemin=1045&mileagemax=49847",
       cookies: [
         {
           name: "__cf_bm",
@@ -267,20 +267,19 @@ const main = async () => {
           domain: ".www.cityvwevanston.com",
         },
       ],
-      mapper: "B",
+      mapper: "D",
       ssl: true,
     },
     {
       url: "https://www.vwoaklawn.com/inventory/used/volkswagen?instock=true&intransit=true&mileagemin=556&mileagemax=60000&sorttype=priceltoh",
       mapper: "C",
     },
-    // TODO: this source seems to give same vins as vwoaklawn
     {
       url: "https://vworland.com/inventory/used/volkswagen?instock=true&intransit=true&mileagemin=556&mileagemax=55753&sorttype=priceltoh",
       mapper: "C",
     },
     {
-      url: "https://www.hawkvw.com/search/pre-owned-volkswagen-joliet-il/?s:pr=1&cy=60435&mk=64&ml=0:55000&tp=pre_owned",
+      url: "https://www.hawkvw.com/inventory/used/volkswagen?paymenttype=cash&intransit=true&instock=true&inproduction=true&mileagemin=4358&mileagemax=59738&sorttype=priceltoh",
       mapper: "D",
       ssl: true,
     },
@@ -289,7 +288,8 @@ const main = async () => {
     },
   ];
 
-  const promises = sites.map(async (site) => {
+  const inventory = [];
+  await async.eachSeries(sites, async (site) => {
     const extract = getExtractor(site);
     const response = await extract(site.url, site.cookies);
 
@@ -299,18 +299,15 @@ const main = async () => {
 
     const url = new URL(site.url);
     console.log(`${url.host}: ${cars.length} found`);
+    if (cars.length === 0) {
+      console.log(site.url);
+    }
 
-    return cars;
+    inventory.push(...cars);
   });
 
-  const cars = [];
-  const responses = await Promise.all(promises);
-  responses.forEach((response) => {
-    cars.push(...response);
-  });
-
-  console.log(`${cars.length} found`);
-  load(cars);
+  console.log(`${inventory.length} found`);
+  load(inventory);
 };
 
 main().then(() => {

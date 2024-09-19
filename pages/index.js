@@ -37,6 +37,7 @@ export default function Home() {
 
   useEffect(() => {
     initGA();
+    console.log(cars);
   }, []);
 
   return (
@@ -72,8 +73,8 @@ export default function Home() {
             <div style={{ flex: 1 }}>VIN</div>
           </div>
           {cars
-            .slice(0, 50)
             .sort((a, b) => a.price - b.price)
+            .slice(0, 150)
             .map((car, index) => (
               <div
                 key={car.vin}

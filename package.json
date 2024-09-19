@@ -8,6 +8,7 @@
     "etl": "node support/etl.js"
   },
   "dependencies": {
+    "async": "^3.2.5",
     "cheerio": "^1.0.0-rc.12",
     "https": "^1.0.0",
     "jsdom": "^20.0.3",
